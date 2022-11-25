@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KochyanLV
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning DS and ML
+- 🌱 I’m currently studying DS and ML
 - 📫 How to reach me: kochyanlv@mail.ru
 
 <!---
