@@ -25,11 +25,11 @@
   </a>
   
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="40"/>
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/330px-Pytorch_logo.png" alt="pytorch" width="100" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/330px-Pytorch_logo.png" alt="pytorch" width="120" height="40"/>
   </a>
   
   <a href="https://catboost.ai/" target="_blank"> 
