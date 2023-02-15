@@ -75,11 +75,18 @@
 * 🥉 Bronze Medal for Kaggle Notebook
 * [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
+### 🐶 Ml/DL projects
+* [Face Recognition Project](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
+* [Semantic Segmentation of cancer cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
+* [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
+
 
 ### Hobbies
 * ⚽ Football
 * 🏋️ Gym
 * ⛷️ Skiing
+* 🖼️ NFTs
+* ₿ Crypto
 
 ### Contacts
 <p align="left"> 
