@@ -37,7 +37,7 @@
   </a>
   
   <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LightGBM_logo_black_text.svg/375px-LightGBM_logo_black_text.svg.png" alt="lightgbm" width="100" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LightGBM_logo_black_text.svg/375px-LightGBM_logo_black_text.svg.png" alt="lightgbm" width="120" height="40"/>
   </a>
   
   <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"> 
