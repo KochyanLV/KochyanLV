@@ -69,7 +69,7 @@
 ### 🎓 Education
 
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
-* [NUST MISIS](https://misis.ru) (2021-)
+* [NUST MISIS](https://misis.ru) (2021 - )
 * [Sber Virtual Internship](https://1.studre.ru/sber-datascience) (2022) | [Solution](https://www.kaggle.com/code/kochyanlev/time-series-sber-virtual-internship) | [Diploma](https://drive.google.com/file/d/1AK1z54B7eEiFN7PQjrg4XVMguLXhY7kv/view?usp=share_link)
 
 ### 🏆 Competitions and achievements
