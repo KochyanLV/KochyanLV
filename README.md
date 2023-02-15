@@ -1,5 +1,5 @@
-## Lev Novitskiy
-#### Antifraud researcher / Machine learning engineer / Data Scientist
+## Lev Kochyan
+#### Trying to be an ML engineer / Data Scientist
 </br>
 
 ### 📊 ML stack
