@@ -89,8 +89,7 @@
 * ⚽ Football
 * 🏋️ Gym
 * ⛷️ Skiing
-* 🖼️ NFTs
-* ₿ Crypto
+* 🖼️ NFTs & Crypto
 
 ### Contacts
 <p align="left"> 
