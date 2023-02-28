@@ -64,6 +64,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="80" height="40"/>
   </a>
   
+  <a href="https://bitcoin.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/120px-Bitcoin.svg.png" alt="btc" width="40" height="40"/>
+  </a>
+  
+  <a href="https://ethereum.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/225px-Ethereum_logo_translucent.svg.png" alt="eth" width="30" height="40"/>
+  </a>
+  
+  <a href="https://soliditylang.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/77px-Solidity_logo.svg.png" alt="sol" width="40" height="40"/>
+  </a>
+  
 </p>
 
 ### 🎓 Education
