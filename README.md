@@ -88,8 +88,7 @@
 * 8/20 [Цифровой прорыв](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" 2022 | [Solution](https://github.com/shhesterka04/running_pandas) | [Diploma](https://drive.google.com/file/d/17tHURIObQ6SWk5GLVx0133ARUHalEPVm/view?usp=share_link)
 * 521/1946 [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting)
 * 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
-* 🥉 Bronze Medal for Kaggle Notebook
-* [Kaggle profile](https://www.kaggle.com/kochyanlev)
+* 🥉 Bronze Medal for Kaggle Notebook | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
 ### 👨‍💻 ML/DL projects
 * [Face Recognition Project](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
@@ -97,6 +96,9 @@
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
 * [Outflow Prediction](https://github.com/KochyanLV/outflow-prediction/blob/main/outflow-prediction.ipynb)
 
+### 🔧 Other projects
+* [Car Rental App](https://github.com/KochyanLV/car-rental-app)
+* [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 
 ### Hobbies
 * ⚽ Football
