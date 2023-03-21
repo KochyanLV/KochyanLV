@@ -1,5 +1,5 @@
 ## Lev Kochyan
-### Data Scientist / ML Engineer
+### Trying to be a Data Scientist / ML Engineer
 </a>
 
 ### 📊 ML/DS skills
