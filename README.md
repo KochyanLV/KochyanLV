@@ -99,7 +99,7 @@
 ### 🔧 Other projects
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
-* [Coinmarketcap Parser of NFT tokens](https://github.com/KochyanLV/cmc-parser)
+* [Coinmarketcap Crypto Parser](https://github.com/KochyanLV/cmc-parser)
 
 ### Hobbies
 * ⚽ Football
