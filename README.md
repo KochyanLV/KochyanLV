@@ -101,6 +101,11 @@
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 * [Coinmarketcap Crypto Parser](https://github.com/KochyanLV/cmc-parser)
 
+### Languages
+Russian - Native <br>
+English - C1 <br>
+German - A2 <De>
+
 ### Hobbies
 * ⚽ Football
 * 🏋️ Gym
