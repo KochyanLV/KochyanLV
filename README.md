@@ -99,7 +99,7 @@
 ### 🔧 Other projects
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
-* [Coinmarketcap Crypto Parser](https://github.com/KochyanLV/cmc-parser)
+* [Parser of Binance Listing Announcements + TG Bot](https://github.com/KochyanLV/binance_news_parser)
 
 ### Languages
 * Russian - Native <br>
