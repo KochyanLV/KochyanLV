@@ -88,7 +88,7 @@
 * 8/20 [Цифровой прорыв](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" 2022 | [Solution](https://github.com/shhesterka04/running_pandas) | [Diploma](https://drive.google.com/file/d/17tHURIObQ6SWk5GLVx0133ARUHalEPVm/view?usp=share_link)
 * 521/1946 [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting)
 * 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
-* 🥉 Bronze Medal for Kaggle Notebook | [Kaggle profile](https://www.kaggle.com/kochyanlev)
+* 2 Bronze Medals 🥉 for Kaggle Notebook | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
 ### 👨‍💻 ML/DL projects
 * [Face Recognition Project](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
