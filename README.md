@@ -101,7 +101,7 @@
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 * [Parser of Binance Listing Announcements + TG Bot](https://github.com/KochyanLV/binance_news_parser)
-* [Telegram Library Bot](https://github.com/KochyanLV/Telegram-Library-Bot)
+* [Telegram Library Bot with Postgresql](https://github.com/KochyanLV/Telegram-Library-Bot)
 
 ### Languages
 * Russian - Native <br>
