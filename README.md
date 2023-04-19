@@ -103,11 +103,6 @@
 * [Coinmarketcap Parser](https://github.com/KochyanLV/cmc-parser)
 * [Telegram Library Bot with Postgresql](https://github.com/KochyanLV/Telegram-Library-Bot)
 
-### Languages
-* Russian - Native <br>
-* English - C1 <br>
-* German - A2 <br>
-
 ### Hobbies
 * ⚽ Football
 * 🏋️ Gym
