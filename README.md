@@ -91,8 +91,9 @@
 * 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
 * 2 Bronze Medals 🥉 for Kaggle Notebook | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
-### 👨‍💻 ML/DL projects
+### 👨‍💻 ML/DL pet projects
 * [Face Recognition Project](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
+* [Machine Learning Models From Scratch](https://github.com/KochyanLV/Machine-Learning-Models)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
 * [Outflow Prediction](https://github.com/KochyanLV/outflow-prediction/blob/main/outflow-prediction.ipynb)
