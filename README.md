@@ -77,7 +77,7 @@
   </a>
 
 ### 👨‍💻 Work experience
-* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling Center (May 2023 - present):
+* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling Center (May 2023 - present day):
   - Stream of disbursements
   - Streams of Early/Late Collection
   - Credit scoring
