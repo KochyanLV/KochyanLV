@@ -76,7 +76,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/77px-Solidity_logo.svg.png" alt="sol" width="40" height="40"/>
   </a>
 
-### 👨‍💻 Work experience
+### 👨🏻‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling Center (May 2023 - present day):
   - Stream of disbursements
   - Streams of Early/Late Collection
@@ -95,14 +95,14 @@
 * 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
 * 2 Bronze Medals 🥉 for Kaggle Notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
-### 👨‍💻 ML/DL pet projects
+### 🐶 ML/DL pet projects
 * [Face Recognition Project](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
 * [Machine Learning Models From Scratch](https://github.com/KochyanLV/Machine-Learning-Models)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
 * [Outflow Prediction](https://github.com/KochyanLV/outflow-prediction/blob/main/outflow-prediction.ipynb)
 
-### 🔧 Other projects
+### 🧮 Other projects
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 * [Coinmarketcap Parser](https://github.com/KochyanLV/cmc-parser)
