@@ -75,8 +75,12 @@
   <a href="https://soliditylang.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/77px-Solidity_logo.svg.png" alt="sol" width="40" height="40"/>
   </a>
-  
-</p>
+
+### 👨‍💻 Work experience
+* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling Center (May 2023 - present):
+  - Stream of disbursements
+  - Streams of Early/Late Collection
+  - Credit scoring
 
 ### 🎓 Education
 
