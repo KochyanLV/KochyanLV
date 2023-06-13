@@ -12,6 +12,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/411px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"/>
   </a>
   
+  <a href="https://docs.dask.org/en/stable/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dask_Logo.svg/120px-Dask_Logo.svg.png" alt="dask" width="50" height="50"/>
+  </a>
+  
   <a href="https://matplotlib.org/" target="_blank"> 
     <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="50" height="50"/>
   </a>
