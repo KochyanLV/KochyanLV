@@ -83,13 +83,12 @@
   - Credit Scoring
 
 ### 🎓 Education
-
 * [NUST MISIS](https://misis.ru) (2021 - )
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
 * [Sber Virtual Internship](https://1.studre.ru/sber-datascience) (2022) | [Diploma](https://drive.google.com/file/d/1AK1z54B7eEiFN7PQjrg4XVMguLXhY7kv/view?usp=share_link)
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
-### 🏆 Competitions and achievements
+### 🏆 Achievements
 * 8/20 [Leaders of Digital](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" 2022 | [Solution](https://github.com/shhesterka04/running_pandas) | [Diploma](https://drive.google.com/file/d/17tHURIObQ6SWk5GLVx0133ARUHalEPVm/view?usp=share_link)
 * 521/1946 [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting)
 * 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
@@ -114,7 +113,7 @@
 * ⛷️ Skiing
 * 🪙 Crypto & NFT
 
-### Contacts
+### Links
 <p align="left"> 
   <a href="https://t.me/kochyanlv" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
