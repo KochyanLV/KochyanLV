@@ -5,43 +5,39 @@
 ### 📊 ML/DS skills
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/>
   </a>
   
   <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/411px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/411px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"/>
   </a>
   
   <a href="https://matplotlib.org/" target="_blank"> 
-    <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="45" height="45"/>
-  </a>
-  
-   <a href="https://seaborn.pydata.org" target="_blank"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="50" height="50"/>
   </a>
   
   <a href="https://numpy.org/" target="_blank"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/268px-NumPy_logo_2020.svg.png" alt="numpy" width="80" height="40"/>
+   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="50" height="50"/>
   </a>
   
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="50"/>
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/330px-Pytorch_logo.png" alt="pytorch" width="120" height="40"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="50" height="50"/>
   </a>
   
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="50" height="50"/>
   </a>
   
   <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LightGBM_logo_black_text.svg/375px-LightGBM_logo_black_text.svg.png" alt="lightgbm" width="120" height="40"/>
+    <img src="https://user-images.githubusercontent.com/7608904/90947747-e2d40c00-e3fd-11ea-9472-fc79e1a20bd9.png" alt="lightgbm" width="45" height="50"/>
   </a>
   
   <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/XGBoost_logo.png/312px-XGBoost_logo.png" alt="xgboost" width="90" height="40"/>
+    <img src="https://img.stackshare.io/service/9899/thumb_retina_xgboost400.png" alt="xgboost" width="50" height="50"/>
   </a>
   
 </p>
@@ -49,23 +45,19 @@
 ### 🔧 Other skills
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="50"/>
   </a>
   
   <a href="https://www.qt.io/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="50" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="60" height="50"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="90" height="50"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d3/Mysql.png/233px-Mysql.png" alt="mysql" width="60" height="40"/>
-  </a>
-  
-  <a href="https://soliditylang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/77px-Solidity_logo.svg.png" alt="sol" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d3/Mysql.png/233px-Mysql.png" alt="mysql" width="60" height="50"/>
   </a>
 
 ### 👨🏻‍💻 Work experience
