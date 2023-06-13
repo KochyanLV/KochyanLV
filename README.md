@@ -28,10 +28,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="50"/>
   </a>
   
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="50" height="50"/>
-  </a>
-  
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="50" height="50"/>
   </a>
@@ -44,12 +40,20 @@
     <img src="https://img.stackshare.io/service/9899/thumb_retina_xgboost400.png" alt="xgboost" width="50" height="50"/>
   </a>
   
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="50" height="50"/>
+  </a>
+  
+  <a href="https://keras.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/>
+  </a>
+  
 </p>
   
 ### 🔧 Other skills
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="45" height="50"/>
   </a>
   
   <a href="https://www.qt.io/" target="_blank"> 
@@ -62,6 +66,14 @@
   
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d3/Mysql.png/233px-Mysql.png" alt="mysql" width="60" height="50"/>
+  </a>
+  
+  <a href="https://docs.kernel.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/>
+  </a>
+  
+  <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="50" height="50"/>
   </a>
 
 ### 👨🏻‍💻 Work experience
