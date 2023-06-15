@@ -28,6 +28,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="50"/>
   </a>
   
+</p>
+  
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="50" height="50"/>
   </a>
@@ -46,6 +48,10 @@
   
   <a href="https://keras.io/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/>
+  </a>
+
+  <a href="https://optuna.org/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="50" height="50"/>
   </a>
   
 </p>
