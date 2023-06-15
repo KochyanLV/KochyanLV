@@ -53,6 +53,10 @@
   <a href="https://optuna.org/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="50" height="50"/>
   </a>
+
+  <a href="https://www.tensorflow.org/tensorboard?hl=ru" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="tensorboard" width="50" height="50"/>
+  </a>
   
 </p>
   
