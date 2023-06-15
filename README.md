@@ -114,13 +114,13 @@
 * [Coinmarketcap Parser](https://github.com/KochyanLV/cmc-parser)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 
-### Hobbies
+### 🏃‍♂️ Hobbies
 * ⚽ Football
 * 🏋️ Gym
 * ⛷️ Skiing
 * 🪙 Crypto & NFT
 
-### Links
+### 🔗 Links
 <p align="left"> 
   <a href="https://t.me/kochyanlv" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
