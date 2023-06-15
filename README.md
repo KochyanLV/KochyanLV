@@ -133,5 +133,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="android" width="30" height="30"/> 
   </a>
 </p>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=KochyanLV&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
