@@ -93,7 +93,7 @@
   - Credit Scoring
 
 ### 🎓 Education
-* [NUST MISIS](https://misis.ru) (2021 - )
+* [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - )
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
 * [Sber Virtual Internship](https://1.studre.ru/sber-datascience) (2022) | [Diploma](https://drive.google.com/file/d/1AK1z54B7eEiFN7PQjrg4XVMguLXhY7kv/view?usp=share_link)
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
