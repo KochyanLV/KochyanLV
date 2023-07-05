@@ -118,7 +118,7 @@
 * [Reversi with the SBER's voice assistant](https://github.com/KochyanLV/reversi_app)
 * [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 
-### 🏃‍♂️ Hobbies
+### 🎲 Hobbies
 * ⚽ Football
 * 🏋️ Gym
 * ⛷️ Skiing
