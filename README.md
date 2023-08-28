@@ -2,6 +2,9 @@
 ### Data Scientist / ML Engineer
 </a>
 
+### [CV](https://docs.google.com/document/d/1XIUxy-0nB39nHN3sxhlGmo6t86Nkf1OSUkpT4JSrvWk/edit?usp=sharing)
+</br>
+
 ### 🤹🏽 ML/DS skills
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
