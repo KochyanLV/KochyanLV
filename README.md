@@ -17,10 +17,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/411px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"/>
   </a>
   
-  <a href="https://docs.dask.org/en/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dask_Logo.svg/120px-Dask_Logo.svg.png" alt="dask" width="50" height="50"/>
-  </a>
-  
   <a href="https://matplotlib.org/" target="_blank"> 
     <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="50" height="50"/>
   </a>
@@ -28,23 +24,27 @@
   <a href="https://numpy.org/" target="_blank"> 
    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="50" height="50"/>
   </a>
-  
-  <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="50"/>
+
+  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="90" height="50"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="50" height="50"/>
   </a>
   
 </p>
-  
+
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="50" height="50"/>
   </a>
-  
-  <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/7608904/90947747-e2d40c00-e3fd-11ea-9472-fc79e1a20bd9.png" alt="lightgbm" width="45" height="50"/>
+
+  <a href="https://scikit-learn.org/stable/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="50"/>
   </a>
-  
-  <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"> 
-    <img src="https://img.stackshare.io/service/9899/thumb_retina_xgboost400.png" alt="xgboost" width="50" height="50"/>
+
+  <a href="https://optuna.org/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="50" height="50"/>
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
@@ -53,10 +53,6 @@
   
   <a href="https://keras.io/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/>
-  </a>
-
-  <a href="https://optuna.org/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="50" height="50"/>
   </a>
 
   <a href="https://www.tensorflow.org/tensorboard?hl=ru" target="_blank"> 
@@ -79,10 +75,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="90" height="50"/>
   </a>
   
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d3/Mysql.png/233px-Mysql.png" alt="mysql" width="60" height="50"/>
-  </a>
-  
   <a href="https://docs.kernel.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/>
   </a>
@@ -93,8 +85,8 @@
 
 ### 👨🏻‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Risk Modeling (May 2023 - present day):
-  - Stream of Disbursements
-  - Streams of Early/Late Collection
+  - Stream of disbursements
+  - Consumer loans
   - Credit Scoring
 
 ### 🎓 Education
