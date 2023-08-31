@@ -64,11 +64,11 @@
 ### 📊 Other skills
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="45" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="35" height="40"/>
   </a>
   
   <a href="https://www.qt.io/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="50" height="40"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
