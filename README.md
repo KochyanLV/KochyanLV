@@ -113,7 +113,6 @@
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [Telegram Library Bot with Postgresql](https://github.com/KochyanLV/Telegram-Library-Bot)
 * [Reversi with the SBER's voice assistant](https://github.com/KochyanLV/reversi_app)
-* [NFT Generator + Smart-contract](https://github.com/KochyanLV/NFT)
 
 ### 🎲 Hobbies
 * ⚽ Football
