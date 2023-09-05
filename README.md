@@ -108,7 +108,6 @@
 * [RNN Name Generator](https://github.com/KochyanLV/Machine-Learning-Models/blob/main/DL/RNN_Name_Generator.ipynb)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
-* [User Churn Prediction](https://github.com/KochyanLV/outflow-prediction/blob/main/outflow-prediction.ipynb)
 
 ### 🧮 Other projects
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
