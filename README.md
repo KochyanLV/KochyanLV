@@ -88,7 +88,7 @@
   - Stream of disbursements:
     - Consumer credit approval models (classic ML & DL)
     - Calibration of credit approval models (score into money)
-    - Feature enginerring of the credit portfolio
+    - Feature engineering of the credit portfolio
 
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - present day)
