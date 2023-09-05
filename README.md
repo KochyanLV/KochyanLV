@@ -86,7 +86,7 @@
 ### 👨🏻‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling (May 2023 - present day):
   - Stream of disbursements:
-    - Consumer credit approval models (Classic ML & DL)
+    - Consumer credit approval models (classic ML & DL)
     - Calibration of credit approval models (score into money)
     - Feature enginerring of the credit portfolio
 
