@@ -97,9 +97,8 @@
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
 ### 🏆 Achievements
-* 8/20 [Leaders of Digital](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff"
-* 521/1946 [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting)
-* 865/2893 [Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
+* */* [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" | [Solution](https://github.com/KochyanLV/Digital_Breakthrough) (2023)
+* 8/20 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" (2022)
 * 3 Bronze Medals 🥉 for Kaggle Notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
 ### 🐶 ML/DL pet projects
