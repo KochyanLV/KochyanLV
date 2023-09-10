@@ -97,7 +97,7 @@
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
 ### 🏆 Achievements
-* */* [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" | [Solution](https://github.com/KochyanLV/Digital_Breakthrough) (2023)
+* */* [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Solution](https://github.com/KochyanLV/Digital_Breakthrough)
 * 8/20 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" (2022)
 * 3 Bronze Medals 🥉 for Kaggle Notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
