@@ -109,9 +109,9 @@
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
 
 ### 🧮 Other projects
+* [Reversi with the SBER's voice assistant](https://github.com/KochyanLV/reversi_app)
 * [Car Rental App](https://github.com/KochyanLV/car-rental-app)
 * [Telegram Library Bot with Postgresql](https://github.com/KochyanLV/Telegram-Library-Bot)
-* [Reversi with the SBER's voice assistant](https://github.com/KochyanLV/reversi_app)
 
 ### 🎲 Hobbies
 * ⚽ Football
