@@ -84,10 +84,17 @@
   </a>
 
 ### 👨🏻‍💻 Work experience
-* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling (May 2023 - present day):
+* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling (May 2023 - October 2023):
   - Stream of disbursements:
     - Net-Credit-Loss (expected credit loss) models (GBM & DL)
     - Calibration of the Net-Credit-Loss models (score into money)
+    - Feature engineering of the credit portfolio
+
+* Junior DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (November 2023 - present day):
+  - Stream of disbursements:
+    - Net-Credit-Loss (expected credit loss) models (GBM & DL)
+    - Calibration of the Net-Credit-Loss models (score into money)
+    - Vintage restoring of the Net-Credit-Loss models
     - Feature engineering of the credit portfolio
 
 ### 🎓 Education
