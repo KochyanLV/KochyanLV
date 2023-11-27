@@ -104,8 +104,8 @@
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
 ### 🏆 Achievements
+* 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Diploma](https://drive.google.com/file/d/184WJa_VcE31BYuchuT1YG__AmlHBQ9Tb/view?usp=sharing) | [Solution](https://github.com/KochyanLV/International_DigitalBreakthtough_BK)
 * 3/20 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Diploma](https://drive.google.com/file/d/1uxLFrAnh6MvEnr-5OvDvA2UIfcNTWa_E/view?usp=sharing) | [Solution](https://github.com/KochyanLV/Digital_Breakthrough)
-* 8/20 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of demand for Internet gaming tariff" (2022)
 * 3 bronze medals 🥉 for Kaggle notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
 ### 🐶 ML/DL pet projects
