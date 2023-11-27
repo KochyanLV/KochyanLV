@@ -109,8 +109,8 @@
 * 3 bronze medals 🥉 for Kaggle notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
 
 ### 🐶 ML/DL pet projects
-* [Face Recognition](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
 * [ML & DL Models From Scratch](https://github.com/KochyanLV/Machine-Learning-Models)
+* [Face Recognition](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
 * [RNN Name Generator](https://github.com/KochyanLV/Machine-Learning-Models/blob/main/DL/RNN_Name_Generator.ipynb)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
 * [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
