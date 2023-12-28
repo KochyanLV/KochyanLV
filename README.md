@@ -119,7 +119,6 @@
 * ⚽ Football
 * 🏋️ Gym
 * ⛷️ Skiing
-* 🪙 Crypto & NFT
 
 ### 🔗 Links
 <p align="left"> 
