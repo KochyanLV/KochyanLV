@@ -28,15 +28,13 @@
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="70" height="40"/>
   </a>
-  
-</p>
-
-  <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="40" height="40"/>
-  </a>
 
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="80" height="40"/>
+  </a>
+
+  <a href="https://catboost.ai/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
 
   <a href="https://optuna.org/" target="_blank"> 
