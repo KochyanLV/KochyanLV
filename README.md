@@ -28,10 +28,6 @@
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="70" height="40"/>
   </a>
-
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-  </a>
   
 </p>
 
@@ -50,10 +46,6 @@
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
   </a>
-  
-  <a href="https://keras.io/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/>
-  </a>
 
   <a href="https://www.tensorflow.org/tensorboard?hl=ru" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="tensorboard" width="40" height="40"/>
@@ -69,6 +61,10 @@
   
   <a href="https://www.qt.io/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="50" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
