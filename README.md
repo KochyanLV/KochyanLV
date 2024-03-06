@@ -87,6 +87,7 @@
   -  Stream **Сonsumer Loans**:
       - Net-Credit-Loss (expected credit loss) models (GBM & DL)
       - Calibration of the NCL models (score into money)
+      - Automation of NCL models calibration
       - Vintage restoring of the NCL models
       - Feature engineering of the credit portfolio
 
