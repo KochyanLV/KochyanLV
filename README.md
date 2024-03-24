@@ -85,10 +85,9 @@
 * Junior+ DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (January 2024 - present day)
 
   -  Stream **Сonsumer Loans**:
-      - Net-Credit-Loss (expected credit loss) models (GBM & DL)
-      - Calibration of the NCL models (score into money)
-      - Automation of NCL models calibration
-      - Vintage restoring of the NCL models
+      - RPL model buiding (expected credit loss | GBM & DL)
+      - Calibration & vintage restoring of the RPL model (score into money)
+      - Automation of RPL model calibration
       - Feature engineering of the credit portfolio
 
 ### 🎓 Education
@@ -98,7 +97,7 @@
 * [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
 ### 🏆 Achievements
-* 1/20 🥇 IT Purple Hack "SBER churn of a salary client" (2024) | [Solution](https://github.com/KochyanLV/It_Purple_Hack)
+* 1/20 🥇 IT Purple Hack "SBER churn of a salary client" (2024) | [Diploma](https://drive.google.com/file/d/1MA6gHccaXQbZDweaPibx3QsDZj3eTWFG/view?usp=sharing) | [Solution](https://github.com/KochyanLV/It_Purple_Hack)
 * 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Diploma](https://drive.google.com/file/d/184WJa_VcE31BYuchuT1YG__AmlHBQ9Tb/view?usp=sharing) | [Solution](https://github.com/KochyanLV/International_DigitalBreakthtough_BK)
 * 3/20 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Diploma](https://drive.google.com/file/d/1uxLFrAnh6MvEnr-5OvDvA2UIfcNTWa_E/view?usp=sharing) | [Solution](https://github.com/KochyanLV/Digital_Breakthrough)
 * 3 bronze medals 🥉 for Kaggle notebooks | [Kaggle profile](https://www.kaggle.com/kochyanlev)
