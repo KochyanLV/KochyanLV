@@ -85,7 +85,8 @@
 * Junior+ DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (January 2024 - present day)
 
   -  Stream **Сonsumer Loans**:
-      - X-Former & GigaChat Transaction Model
+      - X-Former & GigaChat Sequence Transaction Model
+      - Linformer Sequence Transaction Model
       - RPL model buiding (expected credit loss | Classic ML)
       - Calibration & vintage restoring of the RPL model (score into money)
       - Automation of RPL model calibration
