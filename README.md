@@ -79,9 +79,7 @@
 
 ### 👨🏻‍💻 Work experience
 * DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling (May 2023 - October 2023)
-
-* Junior DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (November 2023 - December 2023)
-   
+* Junior DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (November 2023 - December 2023)  
 * Junior+ DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (January 2024 - present day)
 
   -  Stream **Сonsumer Loans**:
@@ -95,8 +93,6 @@
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - present day)
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
-* [Sber Virtual Internship](https://1.studre.ru/sber-datascience) (2022) | [Diploma](https://drive.google.com/file/d/1AK1z54B7eEiFN7PQjrg4XVMguLXhY7kv/view?usp=share_link)
-* [Sber School 21 Python Intensive](https://21-school.ru/) (2023)
 
 ### 🏆 Achievements
 * 1/20 🥇 IT Purple Hack "SBER churn of a salary client" (2024) | [Diploma](https://drive.google.com/file/d/1MA6gHccaXQbZDweaPibx3QsDZj3eTWFG/view?usp=sharing) | [Solution](https://github.com/KochyanLV/It_Purple_Hack)
