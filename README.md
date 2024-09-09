@@ -85,7 +85,7 @@
   -  Stream **Сonsumer Loans**:
       - X-Former & GigaChat Sequence Transaction Model
       - Linformer Sequence Transaction Model
-      - RPL model buiding (expected credit loss | classic ML)
+      - Risk driven & PL (RPL) model buiding (expected credit loss | classic ML)
       - Calibration & vintage restoring of the RPL model (score into money)
       - Automation of RPL model calibration
       - Feature engineering of the credit portfolio
