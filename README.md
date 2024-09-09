@@ -78,9 +78,9 @@
   </a>
 
 ### 👨🏻‍💻 Work experience
-* DS Intern at [SBER](https://www.sberbank.ru) Retail Risk Modeling (May 2023 - October 2023)
-* Junior DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (November 2023 - December 2023)  
-* Junior+ DS at [SBER](https://www.sberbank.ru) Retail Risk Modeling (January 2024 - present day)
+* DS Intern at [SBER](https://www.sberbank.ru) Risk Modeling & Research (May 2023 - October 2023)
+* Junior DS at [SBER](https://www.sberbank.ru) Risk Modeling & Research (November 2023 - December 2023)  
+* Junior+ DS at [SBER](https://www.sberbank.ru) Risk Modeling & Research (January 2024 - present day)
 
   -  Stream **Сonsumer Loans**:
       - X-Former & GigaChat Sequence Transaction Model
