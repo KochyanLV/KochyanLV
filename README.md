@@ -95,7 +95,7 @@
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
 
 ### 🏆 Achievements
-* 1/400 🥇 [Yandex AIDAO](education.yandex.ru/aidao) (AI International Olympiad | Online stage) (2024) | [Solution](https://github.com/incllude/AIDAO24)
+* 1/400 🥇 [Yandex AIDAO](https://education.yandex.ru/aidao) (AI International Olympiad | Online stage) (2024) | [Solution](https://github.com/incllude/AIDAO24)
 * 1/20 🥇 IT Purple Hack "SBER churn of a salary client" (2024) | [Diploma](https://drive.google.com/file/d/1MA6gHccaXQbZDweaPibx3QsDZj3eTWFG/view?usp=sharing) | [Solution](https://github.com/KochyanLV/It_Purple_Hack)
 * 3/20 🥉 [International Digital Breakthrough](https://hacks-ai.ru/) "Churn of customers in the fast food industry" (2023) | [Diploma](https://drive.google.com/file/d/184WJa_VcE31BYuchuT1YG__AmlHBQ9Tb/view?usp=sharing) | [Solution](https://github.com/KochyanLV/International_DigitalBreakthtough_BK)
 * 3/20 🥉 [Digital Breakthrough](https://hacks-ai.ru/) "Prediction of the purchase of a parking space" (2023) | [Diploma](https://drive.google.com/file/d/1uxLFrAnh6MvEnr-5OvDvA2UIfcNTWa_E/view?usp=sharing) | [Solution](https://github.com/KochyanLV/Digital_Breakthrough)
