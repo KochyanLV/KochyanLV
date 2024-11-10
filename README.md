@@ -91,7 +91,7 @@
       - Feature engineering of the credit portfolio
 
 ### 🎓 Education
-* [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - present day)
+* [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
 * [Deep Learning School](https://dls.samcs.ru/) (2021 - 2022) | [Diploma](https://drive.google.com/file/d/1Ru6VRlJSXV4j530yw1Y-IlVPEVgy9ya_/view?usp=share_link)
 
 ### 🏆 Achievements
