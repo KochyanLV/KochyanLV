@@ -106,12 +106,6 @@
 * [Face Recognition](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
 * [RNN Name Generator](https://github.com/KochyanLV/Machine-Learning-Models/blob/main/DL/RNN_Name_Generator.ipynb)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
-* [Simpsons Classification](https://github.com/KochyanLV/simpsons_classification/blob/main/simpsons-classification.ipynb)
-
-### 🧮 Other projects
-* [Reversi with the SBER's voice assistant](https://github.com/KochyanLV/reversi_app)
-* [Car Rental App](https://github.com/KochyanLV/car-rental-app)
-* [Telegram Library Bot with Postgresql](https://github.com/KochyanLV/Telegram-Library-Bot)
 
 ### 🎲 Hobbies
 * ⚽ Football
