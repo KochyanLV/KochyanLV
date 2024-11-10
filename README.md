@@ -83,7 +83,7 @@
 * Junior+ DS at [SBER](https://www.sberbank.ru) Risk Modeling & Research (January 2024 - present day)
 
   -  Stream **Сonsumer Loans**:
-      - X-Former & GigaChat Sequence Transaction Model (DL, NLP)
+      - Transformer-based x GigaChat Sequence Transaction Model (DL, NLP)
       - Linformer Sequence Transaction Model (DL, NLP)
       - Risk driven & PL (RPL) model buiding (classic ML)
       - Calibration and modeling of the migration matrix for RPL models
