@@ -2,7 +2,7 @@
 ### Data Scientist / ML Engineer
 </a>
 
-### [CV](https://drive.google.com/file/d/1QJBSuY3ek3wY77sgs6vnVSX4hnnvoExi/view?usp=sharing)
+### [CV]([https://drive.google.com/file/d/1QJBSuY3ek3wY77sgs6vnVSX4hnnvoExi/view?usp=sharing](https://drive.google.com/file/d/1LX8L9Gi8uG6GrASeRgKPv1EnM8JfxxcA/view?usp=sharing))
 </a>
 
 ### 🤹🏽 ML/DS skills
