@@ -34,17 +34,9 @@
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
-
-  <a href="https://optuna.org/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="optuna" width="40" height="40"/>
-  </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.tensorflow.org/tensorboard?hl=ru" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="tensorboard" width="40" height="40"/>
   </a>
   
 </p>
@@ -53,10 +45,6 @@
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="35" height="40"/>
-  </a>
-  
-  <a href="https://www.qt.io/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/164px-Qt_logo_2016.svg.png" alt="qt" width="50" height="40"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank"> 
