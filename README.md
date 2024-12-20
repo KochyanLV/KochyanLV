@@ -64,17 +64,20 @@
   </a>
 
 ### 👨🏻‍💻 Work experience
-* DS Intern at [SBER](https://www.sberbank.ru) Risk Modeling & Research (May 2023 - October 2023)
-* Junior DS at [SBER](https://www.sberbank.ru) Risk Modeling & Research (November 2023 - December 2023)  
-* Junior+ DS at [SBER](https://www.sberbank.ru) Risk Modeling & Research (January 2024 - present day)
+[SBER](https://www.sberbank.ru) Risk Modeling & Research:
+* DS Intern (May 2023 - October 2023)
+* Junior DS (November 2023 - December 2023) 
+* Junior+ DS (January 2024 - December 2024)
+* Middle DS (January 2025 - present day)
 
-  -  Stream **Сonsumer Loans**:
-      - Transformer-based x GigaChat Sequence Transaction Model (DL, NLP)
-      - Linformer Sequence Transaction Model (DL, NLP)
-      - Risk driven & PL (RPL) model buiding (classic ML)
-      - Calibration and modeling of the migration matrix for RPL models
-      - Automation of RPL models' calibration
-      - Feature engineering of the credit portfolio
+
+Tasks:
+  - Transformer-based x GigaChat Sequence Transaction Model (DL, NLP)
+  - Linformer Sequence Transaction Model (DL, NLP)
+  - Risk driven & PL (RPL) model buiding (classic ML)
+  - Calibration and modeling of the migration matrix for RPL models
+  - Automation of RPL models' calibration
+  - Feature engineering of the credit portfolio
 
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
