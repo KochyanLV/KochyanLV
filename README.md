@@ -72,12 +72,16 @@
 
 
 Tasks:
-  - Transformer-based x GigaChat Sequence Transaction Model (DL, NLP)
-  - Linformer Sequence Transaction Model (DL, NLP)
-  - Risk driven & PL (RPL) model buiding (classic ML)
-  - Calibration and modeling of the migration matrix for RPL models
-  - Automation of RPL models' calibration
-  - Feature engineering of the credit portfolio
+- Built 3 versions of Risk driven & Profit-Loss (RPL) models for decision-making on consumer loans
+- Built several transactional neural networks (for transactions of length 800 and 5000):
+    - SOTA multitask model using transofrmer-based approaches
+    - GRU x GigaChat model
+    - Linformer model (self-attention with linear complexity)
+- Performed calibration and modeling of the migration matrix for various versions of RPL models
+- Wrote a library for automating calibrations of RPL models - the time was reduced from 2 days to 15 minutes
+- Carried out feature engineering of the credit portfolio
+- Performed ad-hoc analytics on developing models
+- Conducted several interviews for internship positions
 
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
