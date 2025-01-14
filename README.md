@@ -68,8 +68,7 @@
 * DS Intern (May 2023 - October 2023)
 * Junior DS (November 2023 - December 2023) 
 * Junior+ DS (January 2024 - December 2024)
-* Middle DS (January 2025 - present day)
-
+* Middle DS (January 2025 - February 2025)
 
 Tasks:
 - Built 3 versions of Risk driven & Profit-Loss (RPL) models for decision-making on consumer loans
@@ -82,6 +81,9 @@ Tasks:
 - Carried out feature engineering of the credit portfolio
 - Performed ad-hoc analytics on developing models
 - Conducted several interviews for internship positions
+
+[SBER](https://www.sberbank.ru) Advertising Platform SberAds:
+* Middle DS (February 2025 - present day)
 
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
