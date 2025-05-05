@@ -64,6 +64,10 @@
   </a>
 
 ### 👨🏻‍💻 Work experience
+
+[SBER](https://www.sberbank.ru) Advertising Platform SberAds:
+* Middle ML Engineer (February 2025 - present day)
+
 [SBER](https://www.sberbank.ru) Risk Modeling & Research:
 * DS Intern (May 2023 - October 2023)
 * Junior DS (November 2023 - December 2023) 
@@ -82,9 +86,6 @@ Tasks:
 - Carried out feature engineering of the credit portfolio
 - Performed ad-hoc analytics on developing models
 - Conducted several interviews for internship positions
-
-[SBER](https://www.sberbank.ru) Advertising Platform SberAds:
-* Middle DS (February 2025 - present day)
 
 ### 🎓 Education
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
