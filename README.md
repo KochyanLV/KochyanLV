@@ -19,6 +19,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png" alt="airflow" height="40"/>
   </a>
 
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://mlflow.org/img/mlflow-black.svg" alt="mlflow" height="40"/>
+  </a>
+
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="80" height="40"/>
   </a>
