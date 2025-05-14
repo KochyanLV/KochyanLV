@@ -5,7 +5,7 @@
 ### [CV](https://drive.google.com/file/d/1uEMA-ViYiT_oBA6Dzx_bfhQPUGSuAAd4/view?usp=sharing)
 </a>
 
-### 🤹🏽 ML/DS skills
+### 🤹🏽 ML Stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
@@ -41,7 +41,7 @@
   
 </p>
   
-### 📊 Other skills
+### 📊 Other stack
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="35" height="40"/>
