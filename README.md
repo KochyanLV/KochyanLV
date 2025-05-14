@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/500px-PyTorch_logo_black.svg.png" alt="pytorch" height="40"/>
   </a>
   
 </p>
