@@ -34,21 +34,9 @@
 </p>
   
 ### 📊 Other skills
-<p>
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="35" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-  </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="90" height="40"/>
-  </a>
-  
-  <a href="https://docs.kernel.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/>
   </a>
   
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> 
