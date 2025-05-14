@@ -8,11 +8,11 @@
 ### 🤹🏽 ML Stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40"/>
   </a>
 
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="70" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" height="40"/>
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank">
@@ -24,11 +24,11 @@
   </a>
 
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" height="40"/>
   </a>
 
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CatBoostLogo.png/120px-CatBoostLogo.png" alt="catboost" height="40"/>
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
@@ -40,11 +40,11 @@
 ### 📊 Other skills
   
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" width="90" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" height="40"/>
   </a>
   
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" height="40"/>
   </a>
 
 ### 👨🏻‍💻 Work experience
