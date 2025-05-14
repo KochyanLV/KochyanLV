@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png" alt="airflow" width="90" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1600px-AirflowLogo.png" alt="airflow" height="40"/>
   </a>
 
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
