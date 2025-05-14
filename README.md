@@ -10,21 +10,13 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
-  
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/411px-Pandas_mark.svg.png" alt="pandas" width="40" height="40"/>
-  </a>
-  
-  <a href="https://matplotlib.org/" target="_blank"> 
-    <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  
-  <a href="https://numpy.org/" target="_blank"> 
-   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="40" height="40"/>
-  </a>
 
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" width="70" height="40"/>
+  </a>
+
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/500px-AirflowLogo.png" alt="airflow" width="70" height="40"/>
   </a>
 
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
@@ -41,7 +33,7 @@
   
 </p>
   
-### 📊 Other stack
+### 📊 Other skills
 <p>
   <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/107px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="35" height="40"/>
