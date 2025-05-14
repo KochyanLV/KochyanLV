@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://pypi-camo.freetls.fastly.net/ed3839e1c11e779b508097969affa63d0968692b/68747470733a2f2f6769746875622e636f6d2f7079746f7263682f7079746f7263682f7261772f6d61696e2f646f63732f736f757263652f5f7374617469632f696d672f7079746f7263682d6c6f676f2d6461726b2e706e67" alt="pytorch" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/992px-PyTorch_logo_icon.svg.png?20200318225611" alt="pytorch" height="40"/>
   </a>
   
 </p>
