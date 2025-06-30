@@ -69,16 +69,16 @@ Tasks:
 * Middle DS (January 2025 - February 2025)
 
 Tasks:
-- Built 3 versions of Risk driven & Profit-Loss (RPL) models for decision-making on consumer loans
-- Built several transactional neural networks (for transactions of length 800 and 5000):
-    - SOTA multitask model using transofrmer-based approaches
-    - GRU x GigaChat model
-    - Linformer model (self-attention with linear complexity)
-- Built TakeUp model for credit cards (probability of taking a credit card on the proposed terms)
+- Built 3 versions of Risk-driven \& Profit-Loss (RPL) models for decision-making on consumer loans
+- Built several transactional neural networks (for transactions of length 800 and 5000) using custom Sberbank architectures:
+        - SOTA multitask transformer model (NDA)
+        - GRU x GigaChat model
+        - Linformer model
+- Built Take-up model for credit cards (probability of taking a credit card on the proposed terms)
 - Performed calibration and modeling of the migration matrix for various versions of RPL models
-- Wrote a library for automating calibrations of RPL models - the time was reduced from 2 days to 15 minutes
+- Wrote a library to automate calibration of RPL models, reducing the time from 2 days to 15 minutes
 - Carried out feature engineering of the credit portfolio
-- Performed ad-hoc analytics on developing models
+- Performed ad-hoc analytics for developing models
 - Conducted several interviews for internship positions
 
 ### 🎓 Education
