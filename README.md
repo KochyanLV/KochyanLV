@@ -2,7 +2,7 @@
 ### Data Scientist / ML Engineer
 </a>
 
-### [CV](https://drive.google.com/file/d/1uEMA-ViYiT_oBA6Dzx_bfhQPUGSuAAd4/view?usp=sharing)
+### [CV](https://drive.google.com/file/d/16vga45GRKijpymcJ1en2OzfxSro_X0HA/view?usp=sharing)
 </a>
 
 ### 🤹🏽 ML Stack
@@ -51,6 +51,16 @@
 
 [SBER](https://www.sberbank.ru) Advertising Platform SberAds:
 * Middle ML Engineer (February 2025 - present day)
+
+Tasks:
+- Conducted experiments with collaborative filtering models
+- Wrote Airflow DAGs and ETL pipelines for training, inference, and evaluation of multiple models
+- Implemented a custom prediction module for a collaborative filtering model
+- Defined system design and supported the integration of the new collaborative filtering model into high-load Go services for online inference
+- Developed automated tests to ensure the quality and stability of the collaborative filtering model
+- Performed A/B experiments to assess the business impact of the new collaborative filtering model
+- Researched banking transactions and embeddings to improve ad ranking models
+- Updated and optimized the budget pacing calibration script
 
 [SBER](https://www.sberbank.ru) Risk Modeling & Research:
 * DS Intern (May 2023 - October 2023)
