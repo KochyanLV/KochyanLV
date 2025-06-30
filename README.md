@@ -1,5 +1,5 @@
 ## Lev Kochyan
-### Middle ML Engineer
+### ML Engineer
 </a>
 
 ### [CV](https://drive.google.com/file/d/16vga45GRKijpymcJ1en2OzfxSro_X0HA/view?usp=sharing)
