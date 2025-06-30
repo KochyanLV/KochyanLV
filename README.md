@@ -54,7 +54,7 @@
 ### 👨🏻‍💻 Work experience
 
 [SBER](https://www.sberbank.ru) Advertising Platform SberAds:
-* Middle ML Engineer (February 2025 - present day)
+* Middle ML Engineer (January 2025 - present day)
 
 Tasks:
 - Conducted experiments with collaborative filtering models
@@ -70,7 +70,7 @@ Tasks:
 * DS Intern (May 2023 - October 2023)
 * Junior DS (November 2023 - December 2023) 
 * Junior+ DS (January 2024 - December 2024)
-* Middle DS (January 2025 - February 2025)
+* Middle DS (January 2025 - January 2025)
 
 Tasks:
 - Built 3 versions of Risk-driven \& Profit-Loss (RPL) models for decision-making on consumer loans
