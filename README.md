@@ -57,7 +57,7 @@
 * Middle ML Engineer (February 2025 - present day)
 
 Tasks:
-- Conducted experiments with collaborative filtering models (CF)
+- Conducted experiments with collaborative filtering (CF) models
 - Wrote Airflow DAGs and ETL pipelines for training, inference and evaluation of multiple models
 - Implemented a custom prediction module for the new CF model
 - Defined system design and supported the integration of the new CF model into high-load Go services for online inference
