@@ -59,7 +59,6 @@
 Tasks:
 - Conducted experiments with collaborative filtering (CF) models
 - Wrote Airflow DAGs and ETL pipelines for training, inference and evaluation of multiple models
-- Implemented a custom prediction module for the new CF model
 - Defined system design and supported the integration of the new CF model into high-load Go services for online inference
 - Developed automated tests to ensure the quality and stability of the new CF model
 - Performed A/B experiments to assess the business impact of the new CF model
