@@ -83,10 +83,12 @@ and evaluation
 Tasks:
 - Built several versions of risk-driven & profit-Loss (RPL) models for decision-making on consumer loans
 - Built several transactional neural networks using custom Sberbank architectures:
-    – SOTA multitask transformer model (NDA) — delivered a financial gain of about 10 billion rubles when
-    added to the RPL model
-    – GRU x GigaChat model
-    – Linformer model
+
+  – SOTA multitask transformer model (NDA) — delivered a financial gain of about 10 billion rubles when
+  added to the RPL model
+  – GRU x GigaChat model
+  – Linformer model
+
 - Built and calibrated take-up model that predicts the probability of taking a credit card on the proposed
 terms
 - Wrote a library to automate the calibration of RPL models, reducing the calibration time from several days
