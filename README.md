@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/223px-Scikit_learn_logo_small.svg.png" alt="sklearn" height="40"/>
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-without-subtitle.svg" alt="sklearn" height="40"/>
   </a>
 
   <a href="https://catboost.ai/" target="_blank"> 
