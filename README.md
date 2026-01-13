@@ -44,7 +44,7 @@
 ### 📊 Other skills
   
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/288px-Git-logo.svg.png" alt="git" height="40"/>
+    <img src="https://git-scm.com/images/logo@2x.png" alt="git" height="40"/>
   </a>
   
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> 
