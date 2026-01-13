@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank">
-    <img src="http://www.w3.org/2000/svg" alt="airflow" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1200px-AirflowLogo.svg.png" alt="airflow" height="40"/>
   </a>
 
   <a href="https://mlflow.org/" target="_blank">
