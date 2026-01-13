@@ -57,13 +57,22 @@
 * Middle ML Engineer (February 2025 - present day)
 
 Tasks:
-- Conducted experiments with collaborative filtering (CF) models
-- Wrote Airflow DAGs and ETL pipelines for training, inference and evaluation of multiple models
-- Defined system design and supported the integration of the new CF model into high-load Go services for online inference
-- Developed automated tests to ensure the quality and stability of the new CF model
-- Performed A/B experiments to assess the business impact of the new CF model
-- Researched banking transactions and embeddings to improve ad ranking models
-- Updated and optimized the budget pacing calibration script
+- Conducted end-to-end development of the LightFM collaborative filtering system, including its full ETL
+and model lifecycle
+- Designed system architecture and supported integration of LightFM into high-load Go services for online
+inference
+- Developed a custom code wrapper for LightFM training and inference
+- Conducted multiple A/B experiments comparing LightFM models trained on various data sources, achieving
+key business metric improvements (CPC reduced by 5%, CTR increased by 10%)
+- Refactored the budget pacing logic to use daily spend plans for each advertising campaign, achieving better
+and more steady campaign budget spending
+- Developed a strategy for globalizing parameters and filtering artifacts, which significantly reduces memory
+usage and computational load on Go services
+- Developed automated tests to verify calculated values from Go and Python when implementing new func-
+tionality
+- Regularly developed and optimized complex ETL pipelines for data preprocessing, model training, inference
+and evaluation
+- Led and participated in technical interviews
 
 [SBER](https://www.sberbank.ru) Risk Modeling & Research:
 * DS Intern (May 2023 - October 2023)
