@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="pyspark" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" alt="pyspark" height="40"/>
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank">
