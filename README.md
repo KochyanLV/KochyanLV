@@ -1,5 +1,5 @@
 ## Lev Kochyan
-### ML Engineer
+### DS Tech Lead
 </a>
 
 ### [CV](https://drive.google.com/file/d/16vga45GRKijpymcJ1en2OzfxSro_X0HA/view?usp=sharing)
@@ -54,7 +54,9 @@
 ### 👨🏻‍💻 Work experience
 
 [SBER](https://www.sberbank.ru) Advertising Platform SberAds:
-* Middle ML Engineer (February 2025 - present day)
+* DS Tech Lead (February 2026 - present day)
+
+* Middle ML Engineer (February 2025 - February 2026)
 
 Tasks:
 - Conducted end-to-end development of the LightFM collaborative filtering system, including its full ETL
@@ -76,8 +78,8 @@ and evaluation
 
 [SBER](https://www.sberbank.ru) Risk Modeling & Research:
 * DS Intern (May 2023 - October 2023)
-* Junior DS (October 2023 - January 2023) 
-* Junior+ DS (January 2024 - December 2024)
+* Junior DS (October 2023 - January 2024) 
+* Junior+ DS (January 2024 - January 2025)
 * Middle DS (January 2025 - February 2025)
 
 Tasks:
