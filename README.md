@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/960px-PyTorch_logo_black.svg.png" alt="pytorch" height="40"/>
   </a>
 
   <a href="https://hydra.cc/docs/intro/" target="_blank"> 
