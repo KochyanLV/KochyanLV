@@ -2,7 +2,7 @@
 ### DS Tech Lead
 </a>
 
-### [CV](https://drive.google.com/file/d/16vga45GRKijpymcJ1en2OzfxSro_X0HA/view?usp=sharing)
+### [CV](https://drive.google.com/file/d/1wzmWhYrPb1BP-ipugyHZFIulSM_uoQXR/view?usp=sharing)
 </a>
 
 ### 🤹🏽 ML Stack
