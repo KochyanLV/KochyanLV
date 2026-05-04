@@ -53,49 +53,17 @@
 
 ### 👨🏻‍💻 Work experience
 
-[SBER](https://www.sberbank.ru) Advertising Platform SberAds:
-* DS Tech Lead (February 2026 - present day)
+[SBER](https://www.sberbank.ru) 
 
+Advertising Platform SberAds:
+* DS Tech Lead (February 2026 - present day)
 * Middle ML Engineer (February 2025 - February 2026)
 
-Tasks:
-- Conducted end-to-end development of the LightFM collaborative filtering system, including its full ETL
-and model lifecycle
-- Designed system architecture and supported integration of LightFM into high-load Go services for online
-inference
-- Developed a custom code wrapper for LightFM training and inference
-- Conducted multiple A/B experiments comparing LightFM models trained on various data sources, achieving
-key business metric improvements (CPC reduced by 5%, CTR increased by 10%)
-- Refactored the budget pacing logic to use daily spend plans for each advertising campaign, achieving better
-and more steady campaign budget spending
-- Developed a strategy for globalizing parameters and filtering artifacts, which significantly reduces memory
-usage and computational load on Go services
-- Developed automated tests to verify calculated values from Go and Python when implementing new func-
-tionality
-- Regularly developed and optimized complex ETL pipelines for data preprocessing, model training, inference
-and evaluation
-- Led and participated in technical interviews
-
-[SBER](https://www.sberbank.ru) Risk Modeling & Research:
+Risk Modeling & Research:
 * DS Intern (May 2023 - October 2023)
 * Junior DS (October 2023 - January 2024) 
 * Junior+ DS (January 2024 - January 2025)
 * Middle DS (January 2025 - February 2025)
-
-Tasks:
-- Built several versions of risk-driven & profit-Loss (RPL) models for decision-making on consumer loans
-- Built several transactional neural networks using custom Sberbank architectures:
-  - SOTA multitask transformer model (NDA) — delivered a financial gain of about 10 billion rubles when
-  added to the RPL model
-  - GRU x GigaChat model
-  - Linformer model
-- Built and calibrated take-up model that predicts the probability of taking a credit card on the proposed
-terms
-- Wrote a library to automate the calibration of RPL models, reducing the calibration time from several days
-to 15 minutes
-- Carried out feature engineering of the credit portfolio
-- Performed ad-hoc analytics for developing models
-- Led and participated in technical interviews
 
 ### 🎓 Education
 * [ITMO AI Talent Hub](https://ai.itmo.ru/) (2025-2027)
