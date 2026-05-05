@@ -56,10 +56,10 @@ Advertising Platform SberAds:
 * Middle ML Engineer (February 2025 - February 2026)
 
 Risk Modeling & Research:
-* DS Intern (May 2023 - October 2023)
-* Junior DS (October 2023 - January 2024) 
-* Junior+ DS (January 2024 - January 2025)
 * Middle DS (January 2025 - February 2025)
+* Junior+ DS (January 2024 - January 2025)
+* Junior DS (October 2023 - January 2024)
+* DS Intern (May 2023 - October 2023)
 
 ### 🎓 Education
 * [ITMO AI Talent Hub](https://ai.itmo.ru/) (2025-2027)
