@@ -8,7 +8,7 @@
 ### 🤹🏽 ML Stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" alt="python" height="40"/>
   </a>
 
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank">
@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1200px-AirflowLogo.svg.png" alt="airflow" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/1280px-AirflowLogo.svg.png" alt="airflow" height="40"/>
   </a>
 
   <a href="https://mlflow.org/" target="_blank">
@@ -34,10 +34,6 @@
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" height="40"/>
   </a>
-
-  <a href="https://hydra.cc/docs/intro/" target="_blank"> 
-    <img src="https://hydra.cc/img/logo.svg" alt="hydra" height="40"/>
-  </a>
   
 </p>
   
@@ -48,12 +44,12 @@
   </a>
   
   <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="bash" height="40"/>
   </a>
 
 ### 👨🏻‍💻 Work experience
 
-[SBER](https://www.sberbank.ru) 
+[Sberbank](https://www.sberbank.ru) 
 
 Advertising Platform SberAds:
 * DS Tech Lead (February 2026 - present day)
