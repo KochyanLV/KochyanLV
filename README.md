@@ -75,6 +75,7 @@ Risk Modeling & Research:
 
 ### 🐶 ML/DL pet projects
 * [ML & DL Models From Scratch](https://github.com/KochyanLV/Machine-Learning-Models)
+* [Analysis of QAT methods with INT8 conversion and performance on CPU](https://github.com/KochyanLV/EfficientDL_QAT)
 * [Face Recognition](https://github.com/KochyanLV/Face-Recognition-Project/blob/main/project_face_recognition.ipynb)
 * [RNN Name Generator](https://github.com/KochyanLV/Machine-Learning-Models/blob/main/DL/RNN_Name_Generator.ipynb)
 * [Semantic Segmentation of Cancer Cells](https://github.com/KochyanLV/semantic-segmentation/blob/main/semantic-segmentation.ipynb)
